@@ -36,6 +36,4 @@ $$\text{Output Height} = \text{Original Height} \times 4.0$$
 
 Each page is exported as an individual `.jpg` file named after the original PDF and the corresponding page number.
 
-## 📜 License
 
-This project is licensed under the MIT License.
